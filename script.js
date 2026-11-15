@@ -162,7 +162,7 @@
       "iPhone और iPad के लिए निखरे हुए ऐप्स, जो पूरी तरह नेटिव लगते हैं।",
       "iPhone आणि iPad साठी सफाईदार ॲप्स, जे अगदी नेटिव्ह वाटतात.",
     ],
-    "Web Apps & Sites": ["वेब ऐप्स और वेबसाइट्स", "वेब ॲप्स आणि वेबसाइट्स"],
+    "Website Development": ["वेबसाइट डेवलपमेंट", "वेबसाइट डेव्हलपमेंट"],
     "Responsive, lightweight websites and platforms.": [
       "हर स्क्रीन पर चलने वाली हल्की और तेज़ वेबसाइट्स व प्लेटफ़ॉर्म।",
       "सर्व स्क्रीनवर चालणाऱ्या हलक्या आणि जलद वेबसाइट्स व प्लॅटफॉर्म्स.",
@@ -176,7 +176,10 @@
       "साफ़-सुथरे इंटरफ़ेस, जिन्हें आपके ग्राहक इस्तेमाल करना पसंद करें।",
       "स्वच्छ इंटरफेस, जे तुमच्या ग्राहकांना वापरायला आवडतील.",
     ],
-    "Support & Growth": ["सपोर्ट और ग्रोथ", "सपोर्ट आणि ग्रोथ"],
+    "Technical Support & Business Development": [
+      "टेक्निकल सपोर्ट और बिज़नेस डेवलपमेंट",
+      "टेक्निकल सपोर्ट आणि बिझनेस डेव्हलपमेंट",
+    ],
     "Hosting, updates and help as you scale.": [
       "होस्टिंग, अपडेट्स और आपके बढ़ने के साथ हर तरह की मदद।",
       "होस्टिंग, अपडेट्स आणि तुमचा व्यवसाय वाढताना लागणारी मदत.",
@@ -255,6 +258,116 @@
     "Please enter your name, a valid phone number and a message.": [
       "कृपया अपना नाम, सही फ़ोन नंबर और संदेश दर्ज करें।",
       "कृपया तुमचे नाव, योग्य फोन नंबर आणि संदेश भरा.",
+    ],
+
+    /* ---- Who we serve ---- */
+    "Who we serve": ["हम किनकी सेवा करते हैं", "आम्ही कोणाला सेवा देतो"],
+    "Website & app development for local institutions and businesses.": [
+      "स्थानीय संस्थानों और व्यवसायों के लिए वेबसाइट और ऐप डेवलपमेंट।",
+      "स्थानिक संस्था आणि व्यवसायांसाठी वेबसाइट आणि ॲप डेव्हलपमेंट.",
+    ],
+    "Schools & Educational Institutes": [
+      "स्कूल और शैक्षणिक संस्थान",
+      "शाळा आणि शैक्षणिक संस्था",
+    ],
+    "School websites, admission and fee management, student and attendance apps.":
+      [
+        "स्कूल वेबसाइट, एडमिशन और फ़ीस मैनेजमेंट, स्टूडेंट और अटेंडेंस ऐप्स।",
+        "शाळेच्या वेबसाइट्स, प्रवेश आणि फी व्यवस्थापन, विद्यार्थी आणि उपस्थिती ॲप्स.",
+      ],
+    "Hospitals & Clinics": ["अस्पताल और क्लिनिक", "रुग्णालये आणि क्लिनिक"],
+    "Appointment booking, patient records and billing software.": [
+      "अपॉइंटमेंट बुकिंग, मरीज़ रिकॉर्ड और बिलिंग सॉफ़्टवेयर।",
+      "अपॉइंटमेंट बुकिंग, रुग्णांच्या नोंदी आणि बिलिंग सॉफ्टवेअर.",
+    ],
+    "NGOs & Organizations": ["एनजीओ और संगठन", "एनजीओ आणि संस्था"],
+    "Donation websites, member management and event pages.": [
+      "डोनेशन वेबसाइट, सदस्य प्रबंधन और इवेंट पेज।",
+      "देणगी वेबसाइट्स, सदस्य व्यवस्थापन आणि इव्हेंट पेजेस.",
+    ],
+    "Shops & Retailers": ["दुकानें और रिटेलर", "दुकाने आणि किरकोळ विक्रेते"],
+    "Billing apps, inventory tracking and online catalogs.": [
+      "बिलिंग ऐप्स, इन्वेंटरी ट्रैकिंग और ऑनलाइन कैटलॉग।",
+      "बिलिंग ॲप्स, इन्व्हेंटरी ट्रॅकिंग आणि ऑनलाइन कॅटलॉग.",
+    ],
+    "Salons & Parlors": ["सैलून और पार्लर", "सलून आणि पार्लर"],
+    "Online booking, customer records and offers via WhatsApp.": [
+      "ऑनलाइन बुकिंग, ग्राहक रिकॉर्ड और WhatsApp पर ऑफ़र।",
+      "ऑनलाइन बुकिंग, ग्राहकांच्या नोंदी आणि WhatsApp वर ऑफर्स.",
+    ],
+    "Startups & Business Development": [
+      "स्टार्टअप और बिज़नेस डेवलपमेंट",
+      "स्टार्टअप आणि बिझनेस डेव्हलपमेंट",
+    ],
+    "Digital strategy, branding, Google presence and growth support.": [
+      "डिजिटल स्ट्रैटेजी, ब्रांडिंग, Google पर उपस्थिति और ग्रोथ सपोर्ट।",
+      "डिजिटल स्ट्रॅटेजी, ब्रँडिंग, Google वरील उपस्थिती आणि ग्रोथ सपोर्ट.",
+    ],
+
+    /* ---- Service areas + FAQ ---- */
+    "Service areas": ["सेवा क्षेत्र", "सेवा क्षेत्रे"],
+    "Software company serving Parbhani, Pune and across Maharashtra.": [
+      "परभणी, पुणे और पूरे महाराष्ट्र में सेवाएँ देने वाली सॉफ़्टवेयर कंपनी।",
+      "परभणी, पुणे आणि संपूर्ण महाराष्ट्रात सेवा देणारी सॉफ्टवेअर कंपनी.",
+    ],
+    "Solviyo provides website development, app development, technical support and business development in:":
+      [
+        "Solviyo इन शहरों में वेबसाइट डेवलपमेंट, ऐप डेवलपमेंट, टेक्निकल सपोर्ट और बिज़नेस डेवलपमेंट की सेवाएँ देती है:",
+        "Solviyo खालील शहरांमध्ये वेबसाइट डेव्हलपमेंट, ॲप डेव्हलपमेंट, टेक्निकल सपोर्ट आणि बिझनेस डेव्हलपमेंट सेवा देते:",
+      ],
+    Parbhani: ["परभणी", "परभणी"],
+    Jintur: ["जिंतूर", "जिंतूर"],
+    Hingoli: ["हिंगोली", "हिंगोली"],
+    Nanded: ["नांदेड", "नांदेड"],
+    Jalna: ["जालना", "जालना"],
+    "Aurangabad (Chhatrapati Sambhajinagar)": [
+      "औरंगाबाद (छत्रपति संभाजीनगर)",
+      "औरंगाबाद (छत्रपती संभाजीनगर)",
+    ],
+    Pune: ["पुणे", "पुणे"],
+    "Pimpri-Chinchwad": ["पिंपरी-चिंचवड", "पिंपरी-चिंचवड"],
+
+    "Which company does website development in Parbhani?": [
+      "परभणी में वेबसाइट डेवलपमेंट कौन सी कंपनी करती है?",
+      "परभणीमध्ये वेबसाइट डेव्हलपमेंट कोणती कंपनी करते?",
+    ],
+    "Solviyo is a software company based in Parbhani and Pune that builds websites, Android and iOS apps, and business software for local clients.":
+      [
+        "Solviyo परभणी और पुणे की सॉफ़्टवेयर कंपनी है, जो स्थानीय क्लाइंट्स के लिए वेबसाइट, Android और iOS ऐप्स तथा बिज़नेस सॉफ़्टवेयर बनाती है।",
+        "Solviyo ही परभणी आणि पुणे येथील सॉफ्टवेअर कंपनी आहे, जी स्थानिक क्लायंट्ससाठी वेबसाइट्स, Android आणि iOS ॲप्स तसेच बिझनेस सॉफ्टवेअर बनवते.",
+      ],
+    "Do you build websites and apps for schools, hospitals and NGOs?": [
+      "क्या आप स्कूल, अस्पताल और एनजीओ के लिए वेबसाइट और ऐप बनाते हैं?",
+      "तुम्ही शाळा, रुग्णालये आणि एनजीओसाठी वेबसाइट्स आणि ॲप्स बनवता का?",
+    ],
+    "Yes. We build admission and fee management systems for schools, appointment and patient record tools for hospitals, donation and volunteer websites for NGOs, and booking and billing apps for shops, salons and parlors.":
+      [
+        "जी हाँ। हम स्कूलों के लिए एडमिशन और फ़ीस मैनेजमेंट सिस्टम, अस्पतालों के लिए अपॉइंटमेंट और मरीज़ रिकॉर्ड टूल्स, एनजीओ के लिए डोनेशन और वॉलंटियर वेबसाइट, तथा दुकानों, सैलून और पार्लर के लिए बुकिंग और बिलिंग ऐप्स बनाते हैं।",
+        "होय. आम्ही शाळांसाठी प्रवेश आणि फी व्यवस्थापन प्रणाली, रुग्णालयांसाठी अपॉइंटमेंट आणि रुग्ण नोंदींची साधने, एनजीओसाठी देणगी आणि स्वयंसेवक वेबसाइट्स, तसेच दुकाने, सलून आणि पार्लरसाठी बुकिंग आणि बिलिंग ॲप्स बनवतो.",
+      ],
+    "Which areas do you serve?": [
+      "आप किन क्षेत्रों में सेवा देते हैं?",
+      "तुम्ही कोणत्या भागात सेवा देता?",
+    ],
+    "We serve Parbhani, Jintur, Hingoli, Nanded, Jalna, Aurangabad (Chhatrapati Sambhajinagar), Pune and Pimpri-Chinchwad, and also work with clients across Maharashtra remotely.":
+      [
+        "हम परभणी, जिंतूर, हिंगोली, नांदेड, जालना, औरंगाबाद (छत्रपति संभाजीनगर), पुणे और पिंपरी-चिंचवड में सेवाएँ देते हैं, और पूरे महाराष्ट्र के क्लाइंट्स के साथ रिमोटली भी काम करते हैं।",
+        "आम्ही परभणी, जिंतूर, हिंगोली, नांदेड, जालना, औरंगाबाद (छत्रपती संभाजीनगर), पुणे आणि पिंपरी-चिंचवड येथे सेवा देतो, तसेच संपूर्ण महाराष्ट्रातील क्लायंट्ससोबत रिमोटली काम करतो.",
+      ],
+    "How can I contact Solviyo?": [
+      "मैं Solviyo से कैसे संपर्क करूँ?",
+      "मी Solviyo शी संपर्क कसा साधू?",
+    ],
+    "Message us on WhatsApp at +91 95456 89533 or email shaikhj2001@gmail.com. We reply quickly.":
+      [
+        "हमें WhatsApp पर +91 95456 89533 पर मैसेज करें या shaikhj2001@gmail.com पर ईमेल करें। हम जल्दी जवाब देते हैं।",
+        "आम्हाला WhatsApp वर +91 95456 89533 वर संदेश पाठवा किंवा shaikhj2001@gmail.com वर ईमेल करा. आम्ही लवकर उत्तर देतो.",
+      ],
+
+    /* ---- Footer ---- */
+    "Solviyo · Website & App Development in Parbhani, Pune & Maharashtra": [
+      "Solviyo · परभणी, पुणे और महाराष्ट्र में वेबसाइट और ऐप डेवलपमेंट",
+      "Solviyo · परभणी, पुणे आणि महाराष्ट्रातील वेबसाइट आणि ॲप डेव्हलपमेंट",
     ],
   };
   var H1 = {
